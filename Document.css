@@ -1,0 +1,239 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+    outline: none;
+}
+ body{
+     font-family: "Poppins", sans-serif;
+ }
+#navigration a{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    font-size:15px;
+    line-height:200%;
+    color: #353535;
+    padding:18px 22px 5px;
+}
+#navigration.active a{
+     border-bottom:1px solid #353535;
+}
+.bntex a{
+    text-decoration:none;
+    height:26px;
+    width:22px;
+    border-radius:22px;
+    margin:35px;
+    padding:18px 35px;
+}
+#let{
+    font-size:20px;
+    font-weight: 400;
+    color: #ffffff;
+    background-color:#ffcc00;
+}
+.download{
+    font-size:20px;
+    font-weight: 400;
+    background-color:transparent;
+    color: #353535;
+    border:2px solid #353535;
+    border-radius:10px;
+}
+#hero{
+ background-image: linear-gradient(135deg,yellow,white);
+ margin:51px 0;
+}
+.texte a{
+    text-decoration: none;
+    font-size:18px;
+    padding:3px;
+    height:25%;
+    width:24%;
+    border:1px solid purple;
+    border-radius:20px;
+    background: transparent;
+}
+#joy{
+    margin:156px 0;
+}
+#joy img{
+    margin-left:70px;
+}
+.texte p{
+    font-size:20px;
+    font-weight: 500;
+}
+.texte h1{
+    font-size:50px;
+    font-weight: 700;
+    color: #353535;
+}
+#help{
+    background-image: linear-gradient(134deg,yellow,orange,white);;
+}
+.til h2{
+    font-size:44px;
+    font-weight:700;
+    color:#353535;
+}
+.til p{
+    font-size:19px;
+    font-weight:400;
+    color: #353535;
+}
+button{
+    font-size:18px;
+    padding:14px;
+    border:1px solid darkred;
+    background-color:transparent;
+    border-radius:20px;
+}
+.baner img{
+    margin-bottom:-10px;
+}
+.now{
+    margin:144px;
+}
+.try{
+    margin:54px;
+}
+#work h2{
+    padding:105px;
+    text-align: center;
+    padding-top:185px;
+    font-size:50px;
+    font-weight: 700;
+    color: #353535;
+}
+.dilation p{
+    font-size:20px;
+    font-weight: 300;
+    color: #7a7a7a;
+}
+.dilation h3{
+    font-size:25px;
+    font-weight: 600;
+    color: #353535;
+}
+.year{
+border-right: 2px dashed #7a7a7a;
+position: relative;
+}
+.year::before{
+content:'' ;
+width:42px;
+height:42px;
+border-radius:50px;
+border:2px dashed #7a7a7a;
+display: inline-block;
+position:absolute;
+right:-21px;
+background-color: #ffffff;
+top: 0%;
+}
+.year::after{
+ content:'' ;
+ width:20px;
+height:20px;
+border-radius:50px;
+display: inline-block;
+position:absolute;
+right:-10px;
+background-color: #52ab70;
+top:10px;
+}
+#expert{
+    margin:130px;
+}
+.aria h2{
+    font-size:50px;
+    font-weight: 700;
+    color: #353535;
+}
+.aria p{
+    font-size:20px;
+    font-weight: 400;
+    color:#7a7a7a;
+}
+.aria a{
+    font-size:18px;
+    font-weight: 300;
+    color: #ffffff;
+    padding:9px 18px 30px;
+    background-color: #ffcc00;
+    border-radius:25px;
+    text-align: center;
+    text-decoration: none;
+    margin:40px;
+    display: inline-block;
+}
+.creative{
+    margin:200px;
+}
+.creative h2{
+    text-align: center;
+    font-size:50px;
+    font-weight:700;
+    color: #353535;
+}
+.creative p{
+    text-align: center;
+    font-size: 19px;
+    font-weight: 400;
+    color: #7a7a7a;
+}
+.desigen img{
+    margin-left:130px;
+}
+.desigen h3{
+    text-align: center;
+    font-size:24px;
+    font-weight: 500;
+    color: #353535;
+}
+  .desigen p{
+    font-size:19px;
+    font-weight: 400;
+    color: #7a7a7a;
+  }
+.ui img{
+    margin-left:135px;
+}
+.ui h3{
+    text-align: center;
+    font-size:24px;
+    font-weight: 500;
+    color: #353535;
+}
+.ui p{
+     font-size:19px;
+    font-weight: 400;
+    color: #7a7a7a;
+}
+  
+.web img{
+    margin-left:135px;
+}
+.web h3{
+    text-align: center;
+    font-size:24px;
+    font-weight: 500;
+    color: #353535;
+}
+.web p{
+       font-size:19px;
+    font-weight: 400;
+    color: #7a7a7a;
+}
+#clint{
+    margin:103px;
+    background-color:#fbfbfb;
+}
+.hj img{
+    margin:30px;
+}
+
+
